@@ -1,5 +1,8 @@
 ------------------------------------------------------[STEP BY STEP GUIDE FOR THIS KAFKA-COURSE]------------------------------------------------------------------
 
+Prequisite → Python (Basic level only)
+Stack used → Confluent Cloud UI, VS Code
+
 STEP 1) → Create a Environment on Confluent Cloud
             - Name it "learning"
 			- click "create"
